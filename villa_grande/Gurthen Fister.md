@@ -1,5 +1,5 @@
 - [ ] Conocido.
-![[Gurthen.jpg|517]]
+![[Gurthen Fister.jpg|517]]
 ### Datos
 - Cargo:
 - Alignment:

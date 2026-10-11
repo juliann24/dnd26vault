@@ -5,9 +5,9 @@ Propiedad de [[Jamie Craig]]. Muchos viajeros vienen para comprar cerveza de est
 ### Bar de la [[Pinta borrosa]]
 Hay 2 ogros principales, [[Ogg]] y [[Sogg]], son gemelos y fueron hermanos de [[Jamie Craig]].
 ### Alcaldía
-El alcalde es [[Clancy Wilson]], un joven optimista, que no se da cuenta de como funciona el mundo realmente. Se puede visitar pero solo entre las 08 y las 12.
+El alcalde es [[Shaan Dorien]], un joven optimista, que no se da cuenta de como funciona el mundo realmente. Se puede visitar pero solo entre las 08 y las 12.
 ### Cuarteles
-El lider de la armada es [[Gurthen]]. Aquí se suelen tratar los problemas con criminales y muertos vivientes. Además se supervisan los campos.
+El lider de la armada es [[Gurthen Fister]]. Aquí se suelen tratar los problemas con criminales y muertos vivientes. Además se supervisan los campos.
 ### Iglesia
 Esta iglesia es de la época de la dictadura. Ahora se está reformando para contener varias religiones.
 ### Tienda libertad

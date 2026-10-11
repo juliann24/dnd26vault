@@ -4,7 +4,7 @@
 - Cargo: Barman y seguridad de la [[Pinta borrosa]]
 - Alignment: True neutral
 - Objetivos: Ser dueño de la [[Pinta borrosa]]
-- Aliados: [[Ogg]], [[Gurthen]]
+- Aliados: [[Ogg]], [[Gurthen Fister]]
 - Enemigos: [[Jamie Craig]]
 - Ubicación [[Villa Grande]]
 ### Resumen
